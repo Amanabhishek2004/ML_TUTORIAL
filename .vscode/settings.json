@@ -1,0 +1,45 @@
+{
+ "sqltools.connections": [
+  {
+   "mysqlOptions": {
+    "authProtocol": "default",
+    "enableSsl": "Disabled"
+   },
+   "previewLimit": 50,
+   "server": "localhost",
+   "port": 3306,
+   "driver": "MySQL",
+   "name": "aman",
+   "database": "Giraafe",
+   "username": "root"
+  },
+  {
+   "mysqlOptions": {
+    "authProtocol": "default",
+    "enableSsl": "Disabled"
+   },
+   "previewLimit": 50,
+   "server": "localhost",
+   "port": 3306,
+   "driver": "MySQL",
+   "database": "AMAN",
+   "name": "MYCONNECTION",
+   "username": "admin",
+   "password": "admin"
+  },
+  {
+   "mysqlOptions": {
+    "authProtocol": "default",
+    "enableSsl": "Disabled"
+   },
+   "previewLimit": 50,
+   "server": "localhost",
+   "port": 3306,
+   "driver": "MySQL",
+   "name": "test_connection",
+   "database": "testdb",
+   "username": "root",
+   "password": "Aman@2004"
+  }
+ ]
+}
